@@ -18,9 +18,9 @@ let hp = 100;
 console.log(hp - 99 + " Low health");
 
 //Fourth
-let sumBuy = 657;
+let sumBuy = 100;
 let sale = 10;
-let cost = (sumBuy / 100) * 10;
+let cost = sumBuy * sale;
 console.log("Cost with sale is: " + cost);
 
 //Fifth
